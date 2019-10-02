@@ -6,7 +6,7 @@ const Layout = (props) =>(
         <Head>
             <title>BitzPrice</title>
             <link rel="stylesheet" 
-            href="https://bootswatch.com/4/slate/bootstrap.min.css"
+            href="https://bootswatch.com/4/simplex/bootstrap.min.css"
             />
         </Head>
         <Navbar/>

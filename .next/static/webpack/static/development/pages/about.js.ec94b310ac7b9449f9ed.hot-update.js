@@ -41,7 +41,7 @@ var Layout = function Layout(props) {
     __self: this
   }, "BitzPrice"), __jsx("link", {
     rel: "stylesheet",
-    href: "https://bootswatch.com/4/Darkly/bootstrap.min.css",
+    href: "https://bootswatch.com/4/simplex/bootstrap.min.css",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
@@ -68,4 +68,4 @@ var Layout = function Layout(props) {
 /***/ })
 
 })
-//# sourceMappingURL=about.js.37885fac74a61d2bd1da.hot-update.js.map
+//# sourceMappingURL=about.js.ec94b310ac7b9449f9ed.hot-update.js.map

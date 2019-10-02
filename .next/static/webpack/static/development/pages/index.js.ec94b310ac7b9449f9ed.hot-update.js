@@ -1,4 +1,4 @@
-webpackHotUpdate("static/development/pages/about.js",{
+webpackHotUpdate("static/development/pages/index.js",{
 
 /***/ "./components/Layout.js":
 /*!******************************!*\
@@ -41,7 +41,7 @@ var Layout = function Layout(props) {
     __self: this
   }, "BitzPrice"), __jsx("link", {
     rel: "stylesheet",
-    href: "https://bootswatch.com/4/Flatly/bootstrap.min.css",
+    href: "https://bootswatch.com/4/simplex/bootstrap.min.css",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
@@ -68,4 +68,4 @@ var Layout = function Layout(props) {
 /***/ })
 
 })
-//# sourceMappingURL=about.js.2da59a36fca442c4e871.hot-update.js.map
+//# sourceMappingURL=index.js.ec94b310ac7b9449f9ed.hot-update.js.map

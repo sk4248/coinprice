@@ -133,7 +133,7 @@ const Layout = props => __jsx("div", {
   __self: undefined
 }, "BitzPrice"), __jsx("link", {
   rel: "stylesheet",
-  href: "https://bootswatch.com/4/slate/bootstrap.min.css",
+  href: "https://bootswatch.com/4/simplex/bootstrap.min.css",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 8
